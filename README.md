@@ -12,7 +12,7 @@ Check out the live demo of the re-built website: TBD<!-- [Demo Link](https://you
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/JoseArmandoFelix/cercas-humaya.git`
+1. Clone the repository: `git clone https://github.com/JoseArmandoFelix/airpods-pro-animation.git`
 2. Open in your browser
 
 ## Technologies Used
