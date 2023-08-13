@@ -12,7 +12,7 @@ Check out the live demo of the re-built website: TBD<!-- [Demo Link](https://you
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/JoseArmandoFelix/airpods-pro-animation.git`
+1. Clone the repository: `git clone https://github.com/peperini/airpods-pro-animation.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 
