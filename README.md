@@ -4,9 +4,7 @@
 
 This project is a re-build of the amazing and interactive animation from the product presentation website for the new Airpods Pro ([Website Link](https://www.apple.com/mx/airpods-pro/)). The goal of this project is to showcase my web design and development skills and recreate the visual and interactive elements of the original website.
 
-## Demo
-
-Check out the live demo of the re-built website: TBD<!-- [Demo Link](https://your-website-url.com) -->
+https://github.com/peperini/airpods-pro-animation/assets/42049554/bcef1a51-0533-42c6-9c5f-c1bdadc525d4
 
 ## Installation
 
